@@ -1,10 +1,10 @@
 # Solidity Smart Contract Assignment
 
-**Name:** TODO - fill in before submission
+**Name:** Nguyễn Bá Thiện
 
 **Roll No:** TODO - fill in before submission
 
-**Email:** TODO - fill in before submission
+**Email:** nguyenbathien.3112@gmail.com
 
 Solidity assignment using Remix IDE and a local Ganache blockchain. This repository currently contains Contracts 01-03; Contracts 04-15 are pending.
 
